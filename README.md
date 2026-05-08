@@ -1,6 +1,6 @@
 # Messenger App
 
-**A role-based messenging app for academic use.**
+**A role-based messaging app for academic use.**
 
 Messenger features:
 - Friends list
@@ -88,9 +88,9 @@ Since this app uses cookies, you can't open it in separate tabs to test multiple
 
 ## Javascript Dependencies
 - Socket.io
-- Axios (for sending post requests, but a bit easier than using fetch())
-- JQuery (if you're familiar with web frameworks this is like the stone age all over again)
-- Cookies (small browser library that makes working with cookies just a bit easier)
+- Axios
+- JQuery
+- Cookies 
 
 ## Python Dependencies
 - Template Engine: Jinja
@@ -99,9 +99,7 @@ Since this app uses cookies, you can't open it in separate tabs to test multiple
 
 ## Screenshots
 
-<p align="center">
-    <img src="https://github.com/bbat2575/MessengerApp/blob/main/images/Messenger-Home.png"/>
-    <img src="https://github.com/bbat2575/MessengerApp/blob/main/images/Messenger2-Chat.png"/>
-    <img src="https://github.com/bbat2575/MessengerApp/blob/main/images/Messenger3-Articles.png"/>
-    <img src="https://github.com/bbat2575/MessengerApp/blob/main/images/Messenger4-Article.png"/>
-</p>
+| | |
+|---|---|
+| ![Home](images/Messenger-Home.png) | ![Articles](images/Messenger3-Articles.png) |
+| ![Chat](images/Messenger2-Chat.png)  | ![Article](images/Messenger4-Article.png) |
