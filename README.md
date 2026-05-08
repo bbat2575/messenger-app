@@ -80,22 +80,22 @@ Navigate to `http://127.0.0.1:5000`
 Since cookies are shared across browser tabs, multiple different browsers are required to test client communication.
 
 ## Tech Stack
+- Python
+- Flask
+- Flask-SocketIO
+- SQLAclhemy
+- SQLite
+- Jinja
+- bcrypt
 - HTML
 - CSS
 - Javascript
-- Python
-- SQLite
 
 ## Javascript Dependencies
 - Socket.io
 - Axios
-- JQuery
+- jQuery
 - Cookies 
-
-## Python Dependencies
-- Template Engine: Jinja
-- Database ORM: SQL Alchemy (use SQLite instead if you are an SQL master)
-- Flask Socket.io
 
 ## Screenshots
 
