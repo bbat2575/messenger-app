@@ -77,7 +77,7 @@ python app.py
 Navigate to `http://127.0.0.1:5000`
 
 ## A Warning
-Since this app uses cookies, you can't open it in separate tabs to test multiple client communication. This is because cookies are shared across tabs. You'd have to use multiple browsers to test client communication.
+Since cookies are shared across browser tabs, multiple different browsers are required to test client communication.
 
 ## Tech Stack
 - HTML
