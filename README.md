@@ -14,11 +14,6 @@ Messenger features:
 
 *See passwords.txt for existing accounts and their sign in details.*
 
-<p align="center">
-    <img src="https://github.com/bbat2575/MessengerApp/blob/main/Messenger.png"/>
-    <img src="https://github.com/bbat2575/MessengerApp/blob/main/Messenger2.png"/>
-</p>
-
 ## Roles
 
 Admin:  
@@ -101,3 +96,12 @@ Since this app uses cookies, you can't open it in separate tabs to test multiple
 - Template Engine: Jinja
 - Database ORM: SQL Alchemy (use SQLite instead if you are an SQL master)
 - Flask Socket.io
+
+## Screenshots
+
+<p align="center">
+    <img src="https://github.com/bbat2575/MessengerApp/blob/main/images/Messenger-Home.png"/>
+    <img src="https://github.com/bbat2575/MessengerApp/blob/main/images/Messenger2-Chat.png"/>
+    <img src="https://github.com/bbat2575/MessengerApp/blob/main/images/Messenger3-Articles.png"/>
+    <img src="https://github.com/bbat2575/MessengerApp/blob/main/images/Messenger4-Article.png"/>
+</p>
